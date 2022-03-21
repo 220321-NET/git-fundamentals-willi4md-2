@@ -1,0 +1,1 @@
+Today I learned more about Git's version control system and mechanics. I also learned about Git Bash's CLI commands and tools.
